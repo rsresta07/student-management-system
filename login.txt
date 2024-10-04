@@ -1,0 +1,19 @@
+---Admin Login Details---
+
+Email   : admin@demo.com
+Password: 12345678
+
+---Teacher Login Details---
+
+Email   : teacher@demo.com
+Password: 12345678
+
+---Student Login Details---
+
+Email   : student@demo.com
+Password: 12345678
+
+---Parents Login Details---
+
+Email   : parent@demo.com
+Password: 12345678
